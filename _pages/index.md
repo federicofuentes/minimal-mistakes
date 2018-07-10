@@ -10,9 +10,10 @@ author_profile: true
 
 # About
 
-I am a Ph.D. candidate in computational and applied mathematics at the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/) in the The University of Texas at Austin, where I am supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). I plan to graduate in May of 2018 and am looking for postdoctoral opportunities at the moment. <br>
+I currently hold an [H.C. Wang Assistant Professorship](http://math.cornell.edu/federico-fuentes) at the Department of Mathematics of Cornell University. 
 
-I was a [Geophysical Fluid Dynamics fellow](http://www.whoi.edu/gfd/) at the Woods Hole Oceanographic Institution (WHOI) in 2017.
+Before that, I received a Ph.D. in computational and applied mathematics from the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/) in the The University of Texas at Austin, where I was supervised by [Professor Leszek Demkowicz](http://users.ices.utexas.edu/~leszek/). 
+In 2017, I was a [Geophysical Fluid Dynamics fellow](http://www.whoi.edu/gfd/) at the Woods Hole Oceanographic Institution (WHOI).
 Previously, I obtained a M.Sc. in computational methods in aeronautical engineering from Imperial College London, and bachelor's degrees in both mathematics and mechanical engineering from the Universidad de los Andes (Colombia).
 
 My research lies in the interdisciplinary intersection of mathematics, physics, engineering and computational science.
