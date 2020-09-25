@@ -12,7 +12,7 @@ author_profile: true
 
 I currently hold an [H.C. Wang Assistant Professorship](https://math.cornell.edu/federico-fuentes) at the Department of Mathematics of Cornell University and have an active [NSF research grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012658). I am seeking tenure-track positions in academia - during a pandemic.
 
-Before that, I received a Ph.D. in computational and applied mathematics from the [Oden Institute for Computational Engineering and Sciences (OICES)](https://www.oden.utexas.edu/) in The University of Texas at Austin, where I was supervised by [Professor Leszek Demkowicz](https://users.oden.utexas.edu/~leszek/). 
+Before that, I received a Ph.D. in computational and applied mathematics from the [Oden Institute](https://www.oden.utexas.edu/) (formerly ICES) in The University of Texas at Austin, where I was supervised by [Professor Leszek Demkowicz](https://users.oden.utexas.edu/~leszek/). 
 In 2017, I was a [Geophysical Fluid Dynamics fellow](https://gfd.whoi.edu/) at the Woods Hole Oceanographic Institution (WHOI).
 Previously, I obtained a M.Sc. in computational methods in aeronautical engineering from Imperial College London, and bachelor's degrees in both mathematics and mechanical engineering from the Universidad de los Andes (Colombia).
 
