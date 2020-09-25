@@ -10,6 +10,7 @@ Most of my publications should be indexed in my [Google Scholar profile](https:/
 
 ## Journal articles
 
+| <img src="/assets/images/2DPlaneCouette.png" width="400px" alt=""> | Fuentes, F., Goluskin, D., and Chernyshenko, S. (2020). Global stability of fluid flows despite transient growth of energy. _arXiv preprint_. [[preprint](https://arxiv.org/abs/1911.09079)] |
 | <img src="/assets/images/PolyDPG.png" width="400px" alt=""> | Vaziri Astaneh, A., Fuentes, F., Mora, J., and Demkowicz, L. (2018). High-order polygonal discontinuous Petrov-Galerkin (PolyDPG) methods using ultraweak formulations. _Computer Methods in Applied Mechanics and Engineering_, 332:686-711. [[preprint](https://arxiv.org/abs/1706.06754)] [[doi](https://doi.org/10.1016/j.cma.2017.12.011)] [[code](http://www.polydpg.com/)]|
 | <img src="/assets/images/DLSAcoustics.png" width="400px" alt=""> | Keith, B., Petrides, S., Fuentes, F., and Demkowicz, L. (2017). Discrete least-squares finite element methods. _Computer Methods in Applied Mechanics and Engineering_, 327:226-255. [[preprint](https://arxiv.org/abs/1705.02078)] [[doi](https://doi.org/10.1016/j.cma.2017.08.043)] |
 | <img src="/assets/images/DMAViscoelasticity.png" width="400px" alt=""> | Fuentes, F., Demkowicz, L., and Wilder, A. (2017). Using a DPG method to validate DMA experimental calibration of viscoelastic materials. _Computer Methods in Applied Mechanics and Engineering_, 325:748-765. [[preprint](https://arxiv.org/abs/1703.10998)] [[doi](https://doi.org/10.1016/j.cma.2017.07.012)] |
@@ -30,6 +31,12 @@ Here is a list of the latest talks and posters I've presented.
 
 ## Talks
 
+|Global stability of fluid flows despite transient growth of energy. Cornell Dynamics Seminar. Cornell University, Ithaca, NY, USA, March, 2020.|
+|Using high-order DPG finite element methods to study form-wound medium-voltage coils. 15th U.S. National Congress on Computational Mechanics (USNCCM). Austin, TX, USA, August, 2019.|
+|Global stability of 2D plane Couette flow beyond the energy stability limit. Workshop: Scientific Computing Across Scales: Extreme Events and Criticality in Fluid Mechanics. The Fields Institute for Research in Mathematical Sciences, University of Toronto, Toronto, ON, Canada, April, 2019.|
+|Global stability of 2D plane Couette flow beyond the energy stability limit. AMS Sectional Meeting, Special Session on Analytical and Numerical Aspects of Turbulent Transport. University of Michigan, Ann Arbor, Ann Arbor, MI, USA, October, 2018.|
+|Various applications of discontinuous Petrov-Galerkin (DPG) finite element methods. Scientific Computing and Numerics (SCAN) Seminar. Cornell University, Ithaca, NY, USA, August, 2018.|
+|Various applications of discontinuous Petrov-Galerkin (DPG) finite element methods. PhD Dissertation Defense. The University of Texas at Austin, Austin, TX, USA, April, 2018.|
 |Global stability of plane Couette flow beyond the energy stability limit. 70th Annual Meeting of the American Physical Society Division of Fluid Dynamics. Denver, CO, USA, November, 2017.|
 |Insulation integrity for power-dense, medium voltage, electric machinery (with Aleta Wilder). Office of Naval Research (ONR) Peer Review in Controls, Electromagnetism, and Power Electronics. Naval Postgraduate School, Monterey, CA, USA, November, 2017.|
 |Discrete least-squares (DLS) and polygonal discontinuous Petrov-Galerkin (PolyDPG) finite element methods. Third Minimum Residual and Least Squares Finite Element Methods Workshop. Portland State University, Portland, OR, USA, October, 2017.|

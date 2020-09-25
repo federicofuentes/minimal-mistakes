@@ -15,6 +15,8 @@ Currently I have two main lines of research:
 - Numerical analysis, and more specifically, finite element analysis, where numerical methods are developed to solve partial differential equations (PDEs) using a computer.
 - Applied nonlinear dynamics, particularly hydrodynamic stability of incompressible fluid systems, where important properties are studied with the aid of a computer via semidefinite programs (SDPs) with sum-of-square (SoS) constraints. 
 
+Recently, I have tried to combine these two lines of research with the aim of resolving some logstanding problems in fluid mechanics.
+
 ## Finite element analysis
 
 <!-- Various PDEs arising from different physical phenomena may be solved numerically with a computer via finite element methods, where the domain is broken into a mesh of elements of different shapes. 
@@ -89,13 +91,17 @@ By using new techniques from optimization, we try to find new Lyapunov functiona
 
 By analyzing an idealized rotating flow we used these new optimization methods to prove the global stability of the flow for Reynolds numbers above the energy stability limit, thus finding a new lower bound for the global stability limit.
 
-
-<figure>
-  <img src="/assets/images/ResearchGlobalStability.png" alt="">
-  <figcaption>Using an SDP to find Lyapunov functionals that prove global stability, the energy method was outperformed on an idealized rotating flow problem (left). Yet to be published results show that the same techniques applied to 2D plane Couette flow may yield the first improvement in over 110 years (middle and right). </figcaption>
-</figure>
-
 ### 2D plane Couette flow
 
 We analyzed 2D plane Couette flow, a very classical flow, whose only known lower bound for the global stability limit is the energy stability limit, established by Orr in 1907.
-We attempted to improve on the energy stability limit for a range of domain lengths, and expect to publish some of these results soon.
+We attempted to improve on the energy stability limit for a range of domain lengths, and the results show a clear improvement over the longstanding result.
+
+<figure>
+  <img src="/assets/images/ResearchGlobalStabilityNew.png" alt="">
+  <figcaption>Using an SDP to find Lyapunov functionals that prove global stability, the energy method was outperformed on an idealized rotating flow problem (left). Results show that the same techniques applied to 2D plane Couette flow yield the first improvement in over 110 years (middle and right). </figcaption>
+</figure>
+
+## Sparse polynomial optimization and finite element methods
+
+By taking advantage of the sparsity of finite element discretizations, it is possible to apply recent results in sparse polynomial optimization to methodically search for global optima of quantities of interest in physical systems governed by nonlinear PDEs.
+We plan to use these ideas to compute exact coherent states in regions where homotopic continuation techniques are not viable.
