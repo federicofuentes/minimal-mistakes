@@ -10,9 +10,9 @@ author_profile: true
 
 # About
 
-I currently hold an [Assistant Professorship](https://math.cornell.edu/federico-fuentes) at the Institute for Mathematical and Computational Engineering ([IMC](http://imc.uc.cl/)) of the Pontificia Universidad Católica de Chile in Santiago.
+I currently hold an Assistant Professorship at the Institute for Mathematical and Computational Engineering ([IMC](http://imc.uc.cl/)) of the Pontificia Universidad Católica de Chile in Santiago.
 
-From 2018-2021 I held an H.C. Wang Assistant Professorship at the Department of Mathematics of Cornell University.
+From 2018-2021 I held an [H.C. Wang Assistant Professorship](https://math.cornell.edu/federico-fuentes) at the Department of Mathematics of Cornell University.
 Before that, I received a Ph.D. in computational and applied mathematics from the [Oden Institute](https://www.oden.utexas.edu/) (formerly ICES) in The University of Texas at Austin, where I was supervised by [Professor Leszek Demkowicz](https://users.oden.utexas.edu/~leszek/). 
 In 2017, I was a [Geophysical Fluid Dynamics fellow](https://gfd.whoi.edu/) at the Woods Hole Oceanographic Institution (WHOI).
 Previously, I obtained a M.Sc. in computational methods in aeronautical engineering from Imperial College London, and bachelor's degrees in both mathematics and mechanical engineering from the Universidad de los Andes (Colombia).
