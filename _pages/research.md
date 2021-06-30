@@ -13,9 +13,9 @@ toc_sticky: true
 I am a mathematical scientist and computational mechanician, and my research lies in the interdisciplinary intersection of mathematics, physics, engineering and computational science.
 Currently I have two main lines of research:
 - Numerical analysis, and more specifically, finite element analysis, where numerical methods are developed to solve partial differential equations (PDEs) using a computer.
-- Applied nonlinear dynamics, particularly hydrodynamic stability of incompressible fluid systems, where important properties are studied with the aid of a computer via semidefinite programs (SDPs) with sum-of-square (SoS) constraints. 
+- Applied nonlinear dynamics, particularly hydrodynamic stability of incompressible fluid systems, where important properties are studied with the aid of a computer via semidefinite programs (SDPs) with sum-of-square (SOS) constraints. 
 
-Recently, I have tried to combine these two lines of research with the aim of resolving some logstanding problems in fluid mechanics.
+Recently, I have tried to combine these two lines of research with the aim of resolving some logstanding problems in fluid mechanics, and this research is partially funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012658).
 
 ## Finite element analysis
 
@@ -85,7 +85,7 @@ The code is available at [www.polydpg.com](http://www.polydpg.com/).
 I am interested in the global stability properties of classical flows, like plane Couette flow, which are known to have infinite linear stability limit.
 The method of choice is the energy method, which is over a century old, and no significant improvements have ocurred since then.
 It uses the energy as a Lyapunov functional.
-By using new techniques from optimization, we try to find new Lyapunov functionals by posing the fluid system as an uncertain dynamical system that can be rewritten as a semidefinite program (SDP) with sum-of-squares (SoS) constraints.
+By using new techniques from optimization, we try to find new Lyapunov functionals by posing the fluid system as an uncertain dynamical system that can be rewritten as a semidefinite program (SDP) with sum-of-squares (SOS) constraints.
 
 ### Surpassing the energy method
 
@@ -105,3 +105,4 @@ We attempted to improve on the energy stability limit for a range of domain leng
 
 By taking advantage of the sparsity of finite element discretizations, it is possible to apply recent results in sparse polynomial optimization to methodically search for global optima of quantities of interest in physical systems governed by nonlinear PDEs.
 We plan to use these ideas to compute exact coherent states in regions where homotopic continuation techniques are not viable.
+Additionally, it is possible to design algorithms to produce approximations that rigorously converge the <em>global</em> optimum of nonlinear integral functionals of scientific interest.

@@ -10,7 +10,7 @@ author_profile: true
 
 ### Instructor
 
-- Applied Functional Analysis (scheduled 2021, MATH 6220)
+- Applied Functional Analysis (2021, [MATH 6220](https://classes.cornell.edu/browse/roster/SP21/class/MATH/6220))
 - Calculus II (2020, [MATH 1120](https://classes.cornell.edu/browse/roster/FA20/class/MATH/1120))
 - Numerical Analysis and Differential Equations (2019, [MATH 4250](https://classes.cornell.edu/browse/roster/FA19/class/MATH/4250))
 - Finite Mathematics for the Life and Social Sciences (2019, [MATH 1105](https://classes.cornell.edu/browse/roster/FA19/class/MATH/1105))
